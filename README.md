@@ -1,1 +1,1 @@
-# Sogang University Zoom Lecture Student Video Activation Checking System
+#### Sogang University Zoom Lecture Student Video Activation Checking System
